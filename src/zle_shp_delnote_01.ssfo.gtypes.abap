@@ -1,0 +1,25 @@
+TYPES: GT_TYPESERNR_PRT LIKE KOMSER OCCURS 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

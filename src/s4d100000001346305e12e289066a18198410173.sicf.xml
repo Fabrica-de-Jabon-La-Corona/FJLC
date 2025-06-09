@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/sap/opu/odata/sap/S4D100000001346/</URL>
+   <ICFSERVICE>
+    <ICF_NAME>S4D100000001346</ICF_NAME>
+    <ORIG_NAME>S4D100000001346</ORIG_NAME>
+    <ICFALTNME>UI_REV_AVAILY_CHECK_RESULT</ICFALTNME>
+    <ICFALTNME_ORIG>ui_rev_availy_check_result</ICFALTNME_ORIG>
+   </ICFSERVICE>
+   <ICFDOCU>
+    <ICF_NAME>S4D100000001346</ICF_NAME>
+    <ICF_LANGU>S</ICF_LANGU>
+    <ICF_DOCU>UI_REV_AVAILY_CHECK_RESULT</ICF_DOCU>
+   </ICFDOCU>
+   <ICFHANDLER_TABLE>
+    <ICFHANDLER>
+     <ICF_NAME>S4D100000001346</ICF_NAME>
+     <ICFORDER>01</ICFORDER>
+     <ICFTYP>A</ICFTYP>
+     <ICFHANDLER>/IWFND/CL_SODATA_HTTP_HANDLER</ICFHANDLER>
+    </ICFHANDLER>
+   </ICFHANDLER_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>

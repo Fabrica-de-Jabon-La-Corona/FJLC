@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSD</ARBGB>
+    <MASTERLANG>S</MASTERLANG>
+    <STEXT>Mensajes para módulo SD</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>El cliente &amp;1 es extranjero, favor de utilizar el pedido de exportación.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>El cliente &amp;1 es nacional, favor de utilizar la clase de pedido nacional.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>La serie &amp;1 introducida no es válida, por favor coloque la serie correcta</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>No tiene autorización para visualizar información del agente &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>No tiene autorización para visualizar información de la cadena &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>No tiene autorización para visualizar información de la zona de ventas &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>No tiene autorización para crear pedidos del agente/broker &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>No tiene autorización para modificar pedidos del agente/broker &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>S</SPRSL>
+     <ARBGB>ZSD</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>No tiene autorización para visualizar pedidos del agente/broker &amp;1.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOBJ>
+    <OBJCT>ZSD_VKGRP</OBJCT>
+    <FIEL1>ACTVT</FIEL1>
+    <FIEL2>VKGRP</FIEL2>
+    <OCLSS>SD</OCLSS>
+   </TOBJ>
+   <TOBJT>
+    <LANGU>S</LANGU>
+    <OBJECT>ZSD_VKGRP</OBJECT>
+    <TTEXT>Autorización para procesos comerciales por agente</TTEXT>
+   </TOBJT>
+   <TOBJVORFLG>
+    <OBJCT>ZSD_VKGRP</OBJCT>
+    <FLAG3>N</FLAG3>
+    <FLAG4>A</FLAG4>
+    <FLAG5>A</FLAG5>
+   </TOBJVORFLG>
+   <TACTZ>
+    <TACTZ>
+     <BROBJ>ZSD_VKGRP</BROBJ>
+     <ACTVT>01</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZSD_VKGRP</BROBJ>
+     <ACTVT>02</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZSD_VKGRP</BROBJ>
+     <ACTVT>03</ACTVT>
+    </TACTZ>
+   </TACTZ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

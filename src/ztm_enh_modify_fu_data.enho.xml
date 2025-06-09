@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>CLASENH</TOOL>
+   <SHORTTEXT>Modify FU Data Enhancement for TM Cockpit</SHORTTEXT>
+   <CLASS>/SCMTMS/CL_UI_VIEWEXIT_PLN_NEW</CLASS>
+   <POST_METHODS>
+    <ENHAMETHKEYS>
+     <METHKEY>
+      <CLSNAME>/SCMTMS/CL_UI_VIEWEXIT_PLN</CLSNAME>
+      <CMPNAME>_MODIFY_FU_DATA</CMPNAME>
+     </METHKEY>
+    </ENHAMETHKEYS>
+   </POST_METHODS>
+   <TAB_ATTRIBUTES>
+    <ENHCLASSATTRIB>
+     <CLSNAME>/SCMTMS/CL_UI_VIEWEXIT_PLN_NEW</CLSNAME>
+     <CMPNAME>%_ZTM_ENH_MODIFY_FU_DATA</CMPNAME>
+     <DESCRIPT>SAP-generated, not changeable!</DESCRIPT>
+     <STATE>1</STATE>
+     <EDITORDER>1</EDITORDER>
+     <TYPTYPE>3</TYPTYPE>
+     <TYPE>OBJECT</TYPE>
+     <LOCKED>X</LOCKED>
+    </ENHCLASSATTRIB>
+   </TAB_ATTRIBUTES>
+   <SOTR>
+    <item>
+     <HEADER>
+      <CONCEPT>EF05178D7BFB1EDFA6F8DAE1D2C651DF</CONCEPT>
+      <CREA_LAN>E</CREA_LAN>
+      <TRALA_TYPE>1</TRALA_TYPE>
+      <OBJID_VEC>AAI=</OBJID_VEC>
+     </HEADER>
+     <ENTRIES>
+      <SOTR_TEXT>
+       <CONCEPT>EF05178D7BFB1EDFA6F8DAE1D2C651DF</CONCEPT>
+       <LANGU>E</LANGU>
+       <LFD_NUM>0001</LFD_NUM>
+       <FLAG_CNTXT>X</FLAG_CNTXT>
+       <STATUS>R</STATUS>
+       <LENGTH>255</LENGTH>
+       <TEXT>Modify FU Data Enhancement for TM Cockpit</TEXT>
+      </SOTR_TEXT>
+     </ENTRIES>
+    </item>
+    <item>
+     <HEADER>
+      <CONCEPT>EF05178D7BFB1EDFA6F8E925A10411DF</CONCEPT>
+      <CREA_LAN>E</CREA_LAN>
+      <TRALA_TYPE>1</TRALA_TYPE>
+      <OBJID_VEC>AAI=</OBJID_VEC>
+     </HEADER>
+     <ENTRIES>
+      <SOTR_TEXT>
+       <CONCEPT>EF05178D7BFB1EDFA6F8E925A10411DF</CONCEPT>
+       <LANGU>E</LANGU>
+       <LFD_NUM>0001</LFD_NUM>
+       <FLAG_CNTXT>X</FLAG_CNTXT>
+       <STATUS>R</STATUS>
+       <LENGTH>255</LENGTH>
+       <TEXT>SAP-generated, not changeable!</TEXT>
+      </SOTR_TEXT>
+     </ENTRIES>
+    </item>
+   </SOTR>
+   <SOTR_USE>
+    <SOTR_USE>
+     <PGMID>R3TR</PGMID>
+     <OBJECT>ENHO</OBJECT>
+     <OBJ_NAME>ZTM_ENH_MODIFY_FU_DATA</OBJ_NAME>
+     <CONCEPT>EF05178D7BFB1EDFA6F8DAE1D2C651DF</CONCEPT>
+     <LFD_NUM>0001</LFD_NUM>
+    </SOTR_USE>
+    <SOTR_USE>
+     <PGMID>R3TR</PGMID>
+     <OBJECT>ENHO</OBJECT>
+     <OBJ_NAME>ZTM_ENH_MODIFY_FU_DATA</OBJ_NAME>
+     <CONCEPT>EF05178D7BFB1EDFA6F8E925A10411DF</CONCEPT>
+     <LFD_NUM>0001</LFD_NUM>
+    </SOTR_USE>
+   </SOTR_USE>
+  </asx:values>
+ </asx:abap>
+</abapGit>

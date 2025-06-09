@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SCP1" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCP1>
+    <SCPRATTR>
+     <ID>ZAIF_S4_EDOC_MX_V07</ID>
+     <TYPE>TMP</TYPE>
+     <ORGID>/CUSTOMER/</ORGID>
+     <COMPONENT>S4CORE</COMPONENT>
+     <MINRELEASE>100</MINRELEASE>
+     <MAXRELEASE>*</MAXRELEASE>
+    </SCPRATTR>
+    <SCPRTEXT>
+     <SCPRTEXT>
+      <LANGU>S</LANGU>
+      <ID>ZAIF_S4_EDOC_MX_V07</ID>
+      <VERSION>N</VERSION>
+      <TEXT>eDocument Mexico: AIF BC Set for CFDI Version 4 Legal Change</TEXT>
+     </SCPRTEXT>
+     <SCPRTEXT>
+      <LANGU>E</LANGU>
+      <ID>ZAIF_S4_EDOC_MX_V07</ID>
+      <VERSION>N</VERSION>
+      <TEXT>eDocument Mexico: AIF BC Set for CFDI Version 4 Legal Change</TEXT>
+     </SCPRTEXT>
+    </SCPRTEXT>
+    <SUBPROFS>
+     <SCPRPPRL>
+      <ID>ZAIF_S4_EDOC_MX_V07</ID>
+      <VERSION>N</VERSION>
+      <SUBPROFILE>ZAIF_EDOC_MX_INTF_ENGINES_V06</SUBPROFILE>
+      <PROF_POSIT>1</PROF_POSIT>
+     </SCPRPPRL>
+     <SCPRPPRL>
+      <ID>ZAIF_S4_EDOC_MX_V07</ID>
+      <VERSION>N</VERSION>
+      <SUBPROFILE>ZAIF_EDOC_MX_NS_SPECIFIC_V06</SUBPROFILE>
+      <PROF_POSIT>2</PROF_POSIT>
+     </SCPRPPRL>
+     <SCPRPPRL>
+      <ID>ZAIF_S4_EDOC_MX_V07</ID>
+      <VERSION>N</VERSION>
+      <SUBPROFILE>ZAIF_EDOC_MX_STRUC_MAP_V06</SUBPROFILE>
+      <PROF_POSIT>3</PROF_POSIT>
+     </SCPRPPRL>
+     <SCPRPPRL>
+      <ID>ZAIF_S4_EDOC_MX_V07</ID>
+      <VERSION>N</VERSION>
+      <SUBPROFILE>ZAIF_EDOC_MX_INTERFACES_V10</SUBPROFILE>
+      <PROF_POSIT>4</PROF_POSIT>
+     </SCPRPPRL>
+     <SCPRPPRL>
+      <ID>ZAIF_S4_EDOC_MX_V07</ID>
+      <VERSION>N</VERSION>
+      <SUBPROFILE>ZAIF_EDOC_MX_INTF_SPEC_V06</SUBPROFILE>
+      <PROF_POSIT>5</PROF_POSIT>
+     </SCPRPPRL>
+     <SCPRPPRL>
+      <ID>ZAIF_S4_EDOC_MX_V07</ID>
+      <VERSION>N</VERSION>
+      <SUBPROFILE>ZAIF_EDOC_MX_VAL_MAPPING_V06</SUBPROFILE>
+      <PROF_POSIT>6</PROF_POSIT>
+     </SCPRPPRL>
+    </SUBPROFS>
+   </SCP1>
+  </asx:values>
+ </asx:abap>
+</abapGit>

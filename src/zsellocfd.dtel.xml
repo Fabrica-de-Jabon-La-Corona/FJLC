@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZSELLOCFD</ROLLNAME>
+    <DDLANGUAGE>S</DDLANGUAGE>
+    <HEADLEN>09</HEADLEN>
+    <SCRLEN1>09</SCRLEN1>
+    <SCRLEN2>09</SCRLEN2>
+    <SCRLEN3>09</SCRLEN3>
+    <DDTEXT>Sello del CFD</DDTEXT>
+    <REPTEXT>Sello CFD</REPTEXT>
+    <SCRTEXT_S>Sello CFD</SCRTEXT_S>
+    <SCRTEXT_M>Sello CFD</SCRTEXT_M>
+    <SCRTEXT_L>Sello CFD</SCRTEXT_L>
+    <DTELMASTER>S</DTELMASTER>
+    <DATATYPE>STRG</DATATYPE>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
